@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tyjcushing
+- 👀 I’m interested in Game Development, Discord bots, and Software Development
+- 🌱 I’m currently learning about UI and color design
