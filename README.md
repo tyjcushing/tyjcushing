@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @tyjcushing
-- 👀 I’m interested in Web Development and Desgin
-- 🌱 I’m currently learning about AI and LLMs
+- 🧑‍💻 I am a salesforce developer with experience in web dev
